@@ -1,0 +1,38 @@
+# Video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+
+# Model weights
+*.pt
+*.pth
+*.pkl
+*.onnx
+*.engine
+
+# Archives
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
+
+# YOLO cache
+*.cache
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
