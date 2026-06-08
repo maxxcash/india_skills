@@ -1,0 +1,13 @@
+path: /home/maaz/eysip/new/dataset
+train: train/images
+val: train/images
+
+nc: 2
+names: ['driving', 'walking']
+
+roboflow:
+  workspace: maazs-workspace-zghki
+  project: maazs-workspace-zghki
+  version: dataset
+  license: Private
+  url: https://app.roboflow.com/maazs-workspace-zghki/maazs-workspace-zghki/dataset
